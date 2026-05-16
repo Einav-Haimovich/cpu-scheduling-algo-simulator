@@ -1,0 +1,15 @@
+# Compiled output
+scheduler
+scheduler.exe
+*.o
+*.out
+a.out
+
+# IDE artifacts
+.idea/
+.vscode/
+*.iml
+
+# OS artifacts
+.DS_Store
+Thumbs.db
